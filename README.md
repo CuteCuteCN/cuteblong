@@ -1,4 +1,4 @@
-# CuteCute_CN的博客 :link: https://cutecutecn.github.io 
+# CuteCute_CN的博客 :link: http://cute.cneko.org/
 ### :page_facing_up: [0](https://cutecutecn.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
